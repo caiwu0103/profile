@@ -69,8 +69,8 @@
 
 
 #### 【連絡先】
-メールアドレス　　　newfund615@163.com
+メールアドレス　　　caiwu0103@gmail.com
 
 スカイプ　　　　　　live:.cid.906c69707d8e3dfa
 
-チャットワーク　　　lorry622@163.com
+チャットワーク　　　caiwu0103@gmail.com
