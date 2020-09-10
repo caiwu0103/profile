@@ -59,6 +59,11 @@
 
 ・Visual BasicのExcelMacro
 
+・データベースのMysql,postgresql,Oracle,redis,mongodb,sqlite
+
+・ゲーム開発のUE4,Unity3D
+
+
 #### 【稼働時間】
 平日は8時間、休日は4時間で在宅ワークをお受けしております。
 
