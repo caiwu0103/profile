@@ -51,17 +51,17 @@
 #### 【開発言語】
 ・アプリ開発のJava/Spring、Kotlin、Swift、react-native、flutter
 
-・ウェブ開発のHTML5,bootstrap,react,angular,vue
+・ウェブ開発のHTML5、bootstrap、react、angular、vue
 
-・PHPのLaravel,Zend,Cake,Symphony,Yii,Thinkphp
+・PHPのLaravel、Zend、Cake、Symphony、Yii、Thinkphp
 
 ・PythonのDjango、Rubyのrails
 
 ・Visual BasicのExcelMacro
 
-・データベースのMysql,postgresql,Oracle,redis,mongodb,sqlite
+・データベースのMysql、postgresql、Oracle、redis、mongodb、sqlite
 
-・ゲーム開発のUE4,Unity3D
+・ゲーム開発のUE4、Unity3D
 
 
 #### 【稼働時間】
