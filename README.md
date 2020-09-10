@@ -49,9 +49,11 @@
 
 
 #### 【開発言語】
-・アプリ開発のJava/Spring、Kotlin、Swift、react-native、flutter
+・アプリ開発のJava、Kotlin、Swift、react-native、flutter
 
 ・ウェブ開発のHTML5、bootstrap、react、angular、vue
+
+・JavaのSpring、elasticsearch、maven、gradle、hibernate
 
 ・PHPのLaravel、Zend、Cake、Symphony、Yii、Thinkphp
 
