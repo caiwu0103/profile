@@ -1,25 +1,78 @@
 # profile
 プロフィール
 
-## 紹介
+プロフィールをご覧いただき、ありがとうございます。
+
 ジャンと申します。
 
-１０年以上フラントエンドやバックエンドをメインに開発している中国国内のランサーです。
+
+中国国内で住んでいる中国人です。
+
+以下に経歴や可能な業務などを記載しておりますので、ご覧ください。
+
+##【経歴】
+・计算机互联网信息技术 卒業 
+
+・2010年からIT会社で日本クライアント向けのエンジニアで活動
+
+・2014年から現在まで、フリーのエンジニアとして活動中
 
 
-## スキル
-フラントエンド： html5、bootstrap、react、angular、ionic
+##【資格】
+・JLPT　2級
 
-バックエンド: PHPのLaravel、Zend、CakePHP、Symphony、ThinkPHP
+・Zend PHPエンジニア
 
-　　　　　　　JavaのSpring、Ruby on rails、Django on python、nodejs
-
-ウェブ開発をはじめc#、java、cプログラミング経験を持っています。
+・MTSA
 
 
-何卒よろしくお願いいたします。
+##【現在の業務内容】
+・サーバー関連、サーバーサイドエンジニア
 
-## 連絡先
+・アプリの開発　
+
+・AI関連
+
+・ブロックチェイン開発
+
+・ソフトウェア開発
+
+・ゲーム開発
+
+
+##【可能な業務】
+上記の業務内容の他、
+
+・データベース設計
+
+・ツール開発・修正
+
+などをお引き受け可能です。
+
+
+##【開発言語】
+・アプリ開発のJava/Spring、Kotlin、Swift、react-native、flutter
+
+・ウェブ開発のHTML5,bootstrap,react,angular,vue
+
+・PHPのLaravel,Zend,Cake,Symphony,Yii,Thinkphp
+
+・PythonのDjango、Rubyのrails
+
+・Visual BasicのExcelMacro
+
+##【稼働時間】
+平日は8時間、休日は4時間で在宅ワークをお受けしております。
+
+
+納期を守ることはもちろん、丁寧なコミュニケーションを心がけております。
+
+ご連絡いただければ、すぐに対応できる態勢を整えておりますので、どうぞよろしくお願いします。
+
+
+##【連絡先】
+メールアドレス     newfund615@163.com
+
 スカイプ　　　　　　live:.cid.906c69707d8e3dfa
 
 チャットワーク　　　lorry622@163.com
